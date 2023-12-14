@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jenny's</title>
+</head>
+<body style="background-color: blanchedalmond;">
+    <h1 style="color: rgb(226, 43, 226); text-align: center; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" >Jenny's Bakery</h1>
+    <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(226, 43, 226); text-align: center;">The Best Bakes in Bangalore!</h2>
+    <marquee behavior="scroll" direction="left" style="color: rgb(226, 43, 226); font-size: larger;">Now Open!</marquee>
+    <table>
+        <th style="font-size: larger;"><u>Recipes</u></th>
+        <th style="font-size: larger; "><u>Menu</u></th>
+        <th style="font-size: larger; "><u>Delivery</u></th>
+        <th style="font-size: larger; "><u>Contact us</u></th>
+</table>
+<h3><b>About Us</b></h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum delectus cumque, earum voluptate magni vitae.</p>
+
+    <h2>Branches</h2>
+    <ol type="I">
+        <li>J B Nagar</li>
+        <li>Indiranagar</li>
+        <li>ShivajiNagar</li>
+        <ol type="i">
+            <li>Russel Market</li>
+            <li>Chandni Chowk</li>
+        </ol>
+        <li>MG Road</li>
+    </ol>
+    <h2>Founders</h2>
+    <ul type="square">
+        <li>Gordon Ramsay</li>
+        <li>Jamie Oliver</li>
+    </ul>
+        <img src="https://glamadelaide.com.au/wp-content/uploads/2021/05/Jennys-Bakery-Image-Final-.jpg" width="400px
+        " alt="">
+        <br>
+        <div>
+            <a href="https://www.instagram.com"  target="_blank">Instagram</a>
+        </div>
+        <div>
+            <a href="https://www.facebook.com/" target="_top">Facebook</a>
+        </div>  
+   
+</body>
+</html>

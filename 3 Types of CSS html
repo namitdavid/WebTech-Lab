@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="3style.css">
+<style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 types of Styles</title>
+body{colgroup}
+h1 {color:thistle}
+p {color: yellow;}
+</style>
+</head>
+<body>
+    <h1>Stylisized heading with internal CSS</h1>
+    <p>Stylisized paragraph with internal CSS</p>
+    <b>Body</b>
+    <br>
+    <br>
+    <p style="color: tomato;"> Inline CSS</p>
+    <h2 style="color: darkblue;">Another Inline CSS</h2>
+<br>
+<br>
+  </body>
+  <body>
+    <div class="div1">
+    <h3>External CSS</h3>
+    <h2>by linking a CSS file</h2>
+</div>
+</body>
+</html>

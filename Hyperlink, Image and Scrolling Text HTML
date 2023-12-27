@@ -38,10 +38,20 @@
         " alt="">
         <br>
         <div>
+            <h3>Blank:</h3>
             <a href="https://www.instagram.com"  target="_blank">Instagram</a>
         </div>
         <div>
+            <h3>Top:</h3>
             <a href="https://www.facebook.com/" target="_top">Facebook</a>
+        </div>  
+        <div>
+            <h3>Parent:</h3>
+            <a href="https://www.youtube.com/" target="_parent">Youtube</a>
+        </div>  
+        <div>
+            <h3>Self:</h3>
+            <a href="https://timesofindia.indiatimes.com/" target="_self">Times Of India</a>
         </div>  
    
 </body>

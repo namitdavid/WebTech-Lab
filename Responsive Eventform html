@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Event Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <div class="container1"> 
+        <h1>New Year Celebrations</h1>
+        <p>All are welcome!</p>
+    </div>
+    <div class="container2">
+        <div class="div1">
+            <div class="rect">
+                <div class="circle">
+                    <span>Image</span>
+                </div>
+            </div>            
+        </div>
+        <div class="div2">
+           
+                <label for="">Name:</label>
+                <label for="">Email:</Label></label>
+                <label for="">Phone No:</label>
+                <label for="">Number of seats:</label>
+                <label for="">Name of the Attendee 2:</label>
+        
+            
+           <div class="button">
+            <input type="submit" id="button" value="submit">
+        </div> 
+            
+        </div>
+        <div class="div3">
+            <div class="div5">
+                <input type="text" value="">
+                <input type="text" value="">
+                <input type="text" value="">
+                <select id="select"value="">
+                <option>1</option>
+                <option>2</option>
+                </select>
+                <input type="text" value="">
+            </div>
+           <div class="button">
+            <input type="button" id="button" value="cancel">
+           </div>
+        </div>
+       
+    </div>
+</div>
+</body>
+</html>

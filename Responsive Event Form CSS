@@ -1,0 +1,111 @@
+
+body{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   border:3px solid black;
+    width:100%;
+    height: 800px;
+   flex-direction: column;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:3px solid black;
+    width:90%;
+    height:60%;
+    flex-direction: column
+}
+.container1{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+      width:80%;
+   height:30%;
+   flex-direction: column
+   
+}
+.container2{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    border:3px solid black;
+   width:80%;
+   height:50%;
+   padding:0%;
+}
+.div1{
+   width:20%;
+   height:50%;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 30px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   width:30%;
+   height:80%;
+   flex-direction: column;
+   position: relative;
+}
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   width:30%;
+   height:80%;
+}
+.rect{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     border:3px solid black;
+    width:70%;
+   height:70%;
+}
+.circle
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     border:3px solid black;
+    width:70%;
+   height:70%;
+   border-radius: 50%;
+
+}
+ label{
+    margin :3px;
+    padding: 6px;
+    width:90%;
+    text-align: right;
+
+
+}
+
+    
+.div5 > input{
+    border:2px solid black;
+    margin :5px;
+    padding: 6px;
+    width:90%;
+    text-align: right;
+
+}
+.div5> select{
+    border:2px solid black;
+    margin :5px;
+    padding: 6px;
+    width:40%;
+    text-align: right;
+}
+ #button{
+  
+  width: 100px;
+  height: 20px;
+}

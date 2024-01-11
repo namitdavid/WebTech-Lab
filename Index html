@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Index</h1>
+    <ol type="I">
+        <li><b>Chapter 1: Introduction to Networks</b></li>
+        <ol type="1"><li>History of Networks</li> 
+            <li>Theory</li> 
+            <li>Discoveries</li>
+            <ol type="i">
+                <li>Copper Wires</li>
+                <li>Wireless</li>
+                <li>Fibre Optics</li>
+            </ol> 
+            <li>Exercises</li> 
+        </ol>
+        <br>
+        <li><b>Chapter 2: Basic Topologies</b></li>
+        <ol type="1">
+            <li>Introduction</li>
+            <li>Types</li>
+            <ol type="i">
+                <li>Local Area Network (LAN)</li>
+                <li>Personal Area Network (PAN)</li>
+                <li>Wide Area Network (WAN)</li>
+            </ol>
+            <li>Advantages and Disadvantages</li>
+            <li>Case Study</li>
+            <ol type="i">
+                <li>Bangalore</li>
+                <li>Spain</li>
+                <li>China</li>
+            </ol>
+        </ol>
+        <br>
+            <li><b>Chapter 3: Waveforms </b></li>
+        <ol type="1">
+        <li>Polar</li>
+        <ol type="i">
+            <li>NRZ</li>
+            <li>RZ</li>
+        </ol>
+            <li>Unipolar</li>
+            <ol type="i">
+                <li>NRZ - L</li>
+                <li>NRZ - I</li>
+                <li>RZ</li>
+            </ol>
+            <li>BiPhase</li>
+            <ol type="i">
+                <li>Manchester</li>
+                <li>Differential Manchester</li>
+            </ol>       
+    
+</ol>
+</body>
+</html>

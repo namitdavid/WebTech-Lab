@@ -1,0 +1,60 @@
+let div1 = document.createElement("div"); 
+let div2 = document.createElement("div");
+let div3 = document.createElement("div");
+let div4 = document.createElement("div");
+let div5 = document.createElement("div");
+
+document.body.appendChild(div1);
+document.body.appendChild(div2);
+document.body.appendChild(div3);
+document.body.appendChild(div4);
+document.body.appendChild(div5);
+
+let child1 = document.createElement("p");
+let child2 = document.createElement("p");
+let child3 = document.createElement("p");
+let child4 = document.createElement("p");
+let child5 = document.createElement("p");
+let child6 = document.createElement("p");
+let child7 = document.createElement("p");
+let child8 = document.createElement("p");
+let child9 = document.createElement("p");
+let child10 = document.createElement("p");
+
+div1.setAttribute("id","Hey")
+div1.setAttribute("style","background-color:green")
+div2.setAttribute("id","Hello")
+div2.setAttribute("style","background-color:yellow")
+div3.setAttribute("id","Hi")
+div3.setAttribute("style","background-color:blue")
+div4.setAttribute("id","Hola")
+div4.setAttribute("style","background-color:red")
+div5.setAttribute("id","Bonjour")
+div5.setAttribute("style","background-color:pink")
+
+document.getElementById("Hey").appendChild(child1);
+document.getElementById("Hey").appendChild(child2);
+
+document.getElementById("Hello").appendChild(child3);
+document.getElementById("Hello").appendChild(child4);
+
+document.getElementById("Hi").appendChild(child5);
+document.getElementById("Hi").appendChild(child6);
+
+document.getElementById("Hola").appendChild(child7);
+document.getElementById("Hola").appendChild(child8);
+
+document.getElementById("Bonjour").appendChild(child9);
+document.getElementById("Bonjour").appendChild(child10);
+
+
+child1.innerText = "Hey"
+child2.innerText = "Hello"
+child3.innerText = "Hi"
+child4.innerText = "Hola"
+child5.innerText = "Bonjour"
+child6.innerText = "namaste"
+child7.innerText = "namaskar"
+child8.innerText = "Vanakam"
+child9.innerText = "Yo yo"
+child10.innerText = "Whatsup!"
